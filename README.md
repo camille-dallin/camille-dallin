@@ -7,4 +7,4 @@ Interesses: Desenvolvimento Web, Inteligência Artificial e Banco de Dados
 
 ### Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/camilledallin)  
-- [Instagram](https://www.instagram.com/camifxp?igsh=MTNpaGExYXRpdm9rZw==)
+
