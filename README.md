@@ -1,16 +1,20 @@
-## Hi there 👋
+# # Olá, eu sou a Cami 🌺
 
-<!--
-**camille-dallin/camille-dallin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software na UTFPR-CP** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projetos 
+* **[Odysse.ia](https://odysse-ia.com/):** Sou uma das criadoras e desenvolvedoras desta IA offline. Nosso objetivo é democratizar o acesso ao conhecimento, levando assistência inteligente para escolas rurais que não possuem conexão com a internet. 
+---
+
+##  Meus Interesses
+* **Inteligência Artificial:** Focada em soluções acessíveis, inclusão digital e processamento local.
+* **Desenvolvimento Web:** Criação de interfaces gráficas (Front-end) intuitivas e modernas.
+* **Educação & Tecnologia:** Acredito no poder da engenharia para transformar realidades e gerar impacto social.
+
+---
+
+##  Onde me encontrar
+
+📫 **[Gmail](mailto:milidallin@gmail.com)** 🔗 **[LinkedIn](https://www.linkedin.com/in/camilledallin/)**
